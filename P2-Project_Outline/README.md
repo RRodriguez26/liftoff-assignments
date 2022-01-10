@@ -7,15 +7,21 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-This app will make progress tracking easier to read by customers. It is a way for customers to know what the project's progress on companies projects. It is a alternative of twitter and other media to see the progress of company's goal. Since the user is seeing progress, it is a way to show customers what to expect in the future. It is also a way to see the company's history of past projects and achievements they have seen. 
+Me and my teamates would like to create a MVC app where a user can create their own choose your own adventure game. It allows other users to play such stories, and will allow users to know which stories they have done, and which one they have noit done it. Only the creator of the story would only be able to edit and/or delete their own stories.
 ### Features
 The Features includes:
-- Progress history of company
-- Public error report of items that are in trial
-- Public announcement from different social media apps
+- User aunthentication
+- Create stories
+- Edit their own stories
+- Delete theirt own stories
+- Search and filter
 ### Technologies
-Since this is very visual based, I'm going to rely a lot on html, css, and javascript. I do not have a specific framwork in my but I am assuming I'll use a Javascript framework with social media API such as Twitter. 
+Since this is very visual based, we will rely some javascript, html, and css, but mainly C# and MySQL using ASP>NET Core 5.0. We will be using Visual Studio as our IDE.
 ### What I'll Have to Learn
-I will have to learn how to make pop ups that extends the summary of goals, use social media's API to use their announcement to our app, and 
+- We will need to learn more about User Validations and Identity, including how to implement user authentication.
+- We will need to learn how to implement edit and delete features within an application.
+- We will need to learn more about how to work with Many-To-Many and One-To-Many relationships between databases.
+- We will need to learn how to dynamically link newly generated pages from a database in an MVC application.
+- We will need to learn how to make pop ups that extends the summary of goals, use social media’s API to use their announcement to our app.
 ### Project Tracker
-https://trello.com/b/VGEpCBPl/launchcode-assignment
+https://trello.com/b/gcbKyJDC/liftoff-project
