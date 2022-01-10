@@ -16,7 +16,7 @@ The Features includes:
 - Delete theirt own stories
 - Search and filter
 ### Technologies
-Since this is very visual based, we will rely some javascript, html, and css, but mainly C# and MySQL using ASP>NET Core 5.0. We will be using Visual Studio as our IDE.
+Since this is very visual based, we will rely some javascript, html, and css, but mainly C# and MySQL using ASP.NET Core 5.0. We will be using Visual Studio as our IDE.
 ### What I'll Have to Learn
 - We will need to learn more about User Validations and Identity, including how to implement user authentication.
 - We will need to learn how to implement edit and delete features within an application.
