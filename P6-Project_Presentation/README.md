@@ -8,3 +8,4 @@ We want to you to create a set of presentation slides summarizing your project.
 
 ### Presentation
 Upload a .PDF of your presentation here for review.
+[Project Presentation.pdf](https://github.com/RRodriguez26/liftoff-assignments/files/8151288/Project.Presentation.pdf)
